@@ -1,0 +1,74 @@
+.Titre{
+    background-color: greenyellow;
+    opacity: 80%;
+    height: 100px;
+    width: 100%px;
+
+}
+
+.img-Header{
+    margin-left: 650px;
+    height: 100px;
+    width:100px;
+    text-align:center;
+    margin:auto;
+    display:flex;
+    }
+
+.T-A-C{
+    text-align: center;}
+
+.First-Part{
+    background-color: greenyellow;
+    border-radius: 20px 20px 20px 20px;
+    width: 50%;
+    height: 50%;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;}
+
+
+
+
+
+.content-one{
+    background-color: green;
+    padding: 2%;
+    border-radius: 20px 20px 20px 20px;}
+
+.img-Second-Part{
+    height: 50%;
+    width: 50%;
+    display: block;
+    text-align: center;
+    border-right: 3px solid green;
+}
+
+
+
+p .Para {
+    font-size: 170%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:greenyellow;
+    border-radius: 10% 10% 10% 10%;
+}
+
+
+
+.item{margin-left: 25%;
+}
+
+
+
+.Margin{margin-left: 20%;}
+
+@media screen and (max-widht:700px) {
+
+    
+
+    div{margin-left: 40%;}
+
+    .img-Arbre{display: none;}
+    
+}
+
