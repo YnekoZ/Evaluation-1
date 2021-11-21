@@ -17,3 +17,14 @@
     display:flex;
     }
 .T-A-C{text-align: center;}
+
+.back-premier-para{
+    background-color: greenyellow;
+    border: 1px solid greenyellow;
+    padding: 1%;
+    height: 20%;
+    width: 30%;
+    border-radius: 15px 15px 15px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;}
