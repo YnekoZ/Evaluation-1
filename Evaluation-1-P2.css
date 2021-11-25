@@ -94,6 +94,11 @@ footer > img{
     .Titre{background-color: blue;}
     .Rond{display: none;}
 
+    footer{
+        color: white;
+        background-color: blue;}
+
+    
 
     .Titre-Act2{font-size: 120%;
         display: block;
